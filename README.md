@@ -26,7 +26,7 @@ Melalui portofolio ini saya ingin menunjukkan hasil-hasil project yang saya kerj
 
 **Server:** Node, Express, Laravel, Php
 
-**Database:** Mysql, Postgre.
+**Database:** Mysql, Postgre SQL
 
 **UI Design:** Figma, Gravit, Adobe XD.
 
