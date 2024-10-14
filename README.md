@@ -81,8 +81,8 @@
 ###
 
 <div align="left">
-![Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiriAdam78&show_icons=true&theme=radical)
-
+![Giri Stats](https://github-readme-stats.vercel.app/api?username=GiriAdam78&show_icons=true&theme=radical)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiriAdam78&hide_progress=true)
 </div>
 
